@@ -1,9 +1,7 @@
 # Create-an-Annual-Report-Portal-for-an-Academic-Institute
 System Design for Multi-Department Academic Analytics Dashboard
-<br>
-1. System Overview
-   <br>
-  This dashboard presents a comprehensive academic performance and participation report across five engineering departments:
+<br>1. System Overview
+   <br>This dashboard presents a comprehensive academic performance and participation report across five engineering departments:
 <br>
   •	Civil
 <br>
